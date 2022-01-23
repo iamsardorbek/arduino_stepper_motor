@@ -1,5 +1,3 @@
-/*Example sketch to control a stepper motor with A4988 stepper motor driver and Arduino without a library. More info: https://www.makerguides.com */
-
 // Define stepper motor connections and steps per revolution:
 //#define dir_pin_1 2
 //#define step_pin_1 3
